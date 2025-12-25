@@ -13,7 +13,7 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  base: "/Blog/",
+  base: "/git-atelier/",
   build: {
     outDir: 'docs'
   },
