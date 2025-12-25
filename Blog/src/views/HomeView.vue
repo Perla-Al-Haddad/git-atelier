@@ -41,7 +41,7 @@ const fetchPostList = () => {
 const postList = fetchPostList();
 
 const fetchPostFile = async (fileName: String) => {
-    const response = await fetch(`/Blog/posts/${fileName}.md`);
+    const response = await fetch(`/git-atelier/posts/${fileName}.md`);
     const markdownText = await response.text();
 
     return markdownText;
