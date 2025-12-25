@@ -1,0 +1,62 @@
+{
+    
+    "Introduction": [
+        {
+            "index": "001",
+            "title": "Introduction au contrôle de versions",
+            "tags": [
+            ],
+            "dateCreated": "2025-12-25T00:00:00.000Z"
+        }
+    ],
+    "Basic": [
+        {
+            "index": "002",
+            "title": "Clonage et branches"
+        },
+        {
+            "index": "003",
+            "title": "Modifications et création de commits"
+        },
+        {
+            "index": "004",
+            "title": "Annuler et corriger des modifications"
+        },
+        {
+            "index": "005",
+            "title": "Création et publication d'un dépôt personnel"
+        },
+        {
+            "index": "006",
+            "title": "Pull Requests et revue de code"
+        }
+    ],
+    "Advanced": [
+        {
+            "index": "007",
+            "title": "Collaboration et résolution de conflits"
+        },
+        {
+            "index": "008",
+            "title": "Rebase vs Merge"
+        },
+        {
+            "index": "009",
+            "title": "Push --force-with-lease"
+        },
+        {
+            "index": "010",
+            "title": "Organisation du cycle de développement avec Git Flow"
+        },
+        {
+            "index": "011",
+            "title": "Forks"
+        }
+    ],
+    "CI/CD": [
+        {
+            "index": "012",
+            "title": "GitHub Pages et CI/CD"
+        }
+    ]
+}

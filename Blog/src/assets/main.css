@@ -1,0 +1,202 @@
+/* @import './base.css';
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+
+  font-weight: normal;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+
+  #app {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 2rem;
+  }
+} */
+
+:root {
+  --bl-dark: #191919;
+  --bl-dark-soft: #333;
+  --bl-dark-light: #777;
+
+  --bl-blue: #38b6ff;
+  --bs-code-color: var(--bl-blue);
+}
+
+body {
+  background-color: var(--bl-dark);
+  color: white;
+}
+
+#app {
+  /* font-family: "Ubuntu"; */
+  font-family: "Inter var experimental", "Inter var", Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+.bg-dark {
+  background-color: var(--bl-dark) !important;
+}
+
+.bg-gray {
+  background-color: var(--bl-dark-soft) !important;
+}
+
+input {
+  border-radius: 0 !important;
+}
+
+.btn {
+  border-radius: 0;
+  border: none;
+}
+
+.btn-primary {
+  background-color: var(--bl-blue);
+}
+
+.navbar-nav {
+  font-size: 0.85rem;
+}
+
+.navbar {
+  border-bottom: 1.5px solid var(--bl-dark-soft);
+}
+
+.navbar-dark .nav-link {
+  color: #ddd;
+}
+
+.nav-link {
+  font-weight: 500;
+}
+
+.text-gray-light {
+  color: var(--bl-dark-light)
+}
+
+.text-active {
+  color: var(--bl-blue);
+}
+
+hr {
+  color: var(--bl-dark-light);
+}
+
+.fs-7 {
+  font-size: 0.9rem;
+}
+
+.fs-8 {
+  font-size: 0.8rem;
+}
+
+.text-bold {
+  font-weight: 600 !important;
+}
+
+code,
+.code-snippet {
+  background-color: var(--bl-dark-soft);
+  color: var(--bl-blue);
+  padding: 3px 8px;
+  border-radius: 4px;
+  font-family: "Ubuntu";
+}
+
+pre>code {
+  font-family: inherit;
+  color: inherit;
+}
+
+.post-container h1,
+.post-container h2,
+.post-container h3,
+.post-container h4,
+.post-container h5,
+.post-container h6 {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  font-weight: 500;
+  position: relative;
+  cursor: pointer;
+}
+
+.post-container h2::before,
+.post-container h3::before,
+.post-container h4::before,
+.post-container h5::before,
+.post-container h6::before {
+  content: "#";
+  position: absolute;
+  left: -1.85rem;
+  color: #38b6ff;
+  opacity: 0;
+  transition: 0.15s opacity;
+}
+
+.post-container h2:hover::before,
+.post-container h3:hover::before,
+.post-container h4:hover::before,
+.post-container h5:hover::before,
+.post-container h6:hover::before {
+  opacity: 1;
+}
+
+.post-container h1 {
+  margin-top: 0;
+}
+
+.post-container hr {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+/* Media query for medium screens (>= 768px) */
+@media (min-width: 768px) {
+  .px-md-6 {
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+
+  .col-md-2 {
+    flex: 0 0 auto;
+    width: 20%;
+  }
+
+  .col-md-8 {
+    width: 60%;
+  }
+
+}
+
+@media (min-width: 1400px) {
+
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl,
+  .container-xxl {
+    max-width: 1400px;
+  }
+}
