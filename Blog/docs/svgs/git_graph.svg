@@ -1,0 +1,604 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="1053.199951171875" height="1568.60009765625">
+    <g transform="translate(10, 10)">
+        <path
+            d="M 0 1520 C 0 1480 0 1480 0 1440 L 0 1360 L 0 1280 L 0 1200 L 0 1120 L 0 1040 L 0 960 L 0 880 L 0 800 L 0 720 L 0 640 L 0 560 L 0 480 L 0 400 L 0 320 L 0 240 L 0 160 L 0 80 C 0 40 0 40 0 0"
+            fill="transparent" stroke="#718096" stroke-width="10" transform="translate(14, 14)"></path>
+        <path
+            d="M 100 480 C 100 440 50 440 50 400 L 50 320 L 50 240 L 50 160 L 50 80 C 50 40 0 40 0 0"
+            fill="transparent" stroke="#F6AD55" stroke-width="10" transform="translate(14, 14)"></path>
+        <path
+            d="M 0 1520 C 0 1480 100 1480 100 1440 L 100 1360 L 100 1280 L 100 1200 L 100 1120 L 100 1040 L 100 960 L 100 880 L 100 800 L 100 720 L 100 640 L 100 560 L 100 480 L 100 400 L 100 320 L 100 240 L 100 160 C 100 120 50 120 50 80"
+            fill="transparent" stroke="#48BB78" stroke-width="10" transform="translate(14, 14)"></path>
+        <path
+            d="M 100 1040 C 100 1000 150 1000 150 960 L 150 880 L 150 800 L 150 720 L 150 640 L 150 560 C 150 520 100 520 100 480"
+            fill="transparent" stroke="#ECC94B" stroke-width="10" transform="translate(14, 14)"></path>
+        <path
+            d="M 100 960 C 100 920 200 920 200 880 L 200 800 L 200 720 L 200 640 L 200 560 C 200 520 100 520 100 480"
+            fill="transparent" stroke="#0BC5EA" stroke-width="10" transform="translate(14, 14)"></path>
+        <path
+            d="M 100 1440 C 100 1400 250 1400 250 1360 L 250 1280 L 250 1200 L 250 1120 C 250 1080 100 1080 100 1040"
+            fill="transparent" stroke="#9F7AEA" stroke-width="10" transform="translate(14, 14)"></path>
+        <path d="M 250 1360 C 250 1320 300 1320 300 1280 L 300 1200 C 300 1160 250 1160 250 1120"
+            fill="transparent" stroke="#38B2AC" stroke-width="10" transform="translate(14, 14)"></path>
+        <g>
+            <g transform="translate(0, 0)">
+                <defs>
+                    <circle id="9e49580f4ce482df4ff1bb07d8d04746849238c1" cx="14" cy="14" r="14"
+                        fill="#718096"
+                        style="fill: white; stroke: rgb(66, 153, 225); stroke-width: 8px;"></circle>
+                    <clipPath id="clip-9e49580f4ce482df4ff1bb07d8d04746849238c1">
+                        <use xlink:href="#9e49580f4ce482df4ff1bb07d8d04746849238c1"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#9e49580f4ce482df4ff1bb07d8d04746849238c1"
+                        clip-path="url(#clip-9e49580f4ce482df4ff1bb07d8d04746849238c1)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(0, 0)">
+                    <g transform="translate(442.8000030517578, 14)">
+                        <text alignment-baseline="central" fill="#718096">first commit message</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#718096" fill="white" rx="10" width="72.79999923706055"
+                                height="28.399999618530273"></rect>
+                            <text fill="#718096" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="14.199999809265137">master</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(50, 80)">
+                <defs>
+                    <circle id="66cd1b0b785bce69de0652cde6c3a7bfed80809f" cx="14" cy="14" r="14"
+                        fill="#F6AD55"
+                        style="fill: rgb(246, 173, 85); stroke: rgb(66, 153, 225); stroke-width: 0px;"></circle>
+                    <clipPath id="clip-66cd1b0b785bce69de0652cde6c3a7bfed80809f">
+                        <use xlink:href="#66cd1b0b785bce69de0652cde6c3a7bfed80809f"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#66cd1b0b785bce69de0652cde6c3a7bfed80809f"
+                        clip-path="url(#clip-66cd1b0b785bce69de0652cde6c3a7bfed80809f)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(-50, 0)">
+                    <g transform="translate(793.2000122070312, 14)">
+                        <text alignment-baseline="central" fill="#F6AD55">create new branch</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#F6AD55" fill="white" rx="10" width="423.20001220703125"
+                                height="30.799999237060547"></rect>
+                            <text fill="#F6AD55" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">
+                                team/ISICG-145-implementing-shadow-mapping</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(50, 160)">
+                <defs>
+                    <circle id="58f8bbf7adf189fe9d6a46034d93eb2841ea8844" cx="14" cy="14" r="14"
+                        fill="#F6AD55"
+                        style="fill: rgb(72, 187, 120); stroke: rgb(66, 153, 225); stroke-width: 0px;"></circle>
+                    <clipPath id="clip-58f8bbf7adf189fe9d6a46034d93eb2841ea8844">
+                        <use xlink:href="#58f8bbf7adf189fe9d6a46034d93eb2841ea8844"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#58f8bbf7adf189fe9d6a46034d93eb2841ea8844"
+                        clip-path="url(#clip-58f8bbf7adf189fe9d6a46034d93eb2841ea8844)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(-50, 0)">
+                    <g transform="translate(793.2000122070312, 14)">
+                        <text alignment-baseline="central" fill="#F6AD55">create new branch</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#F6AD55" fill="white" rx="10" width="423.20001220703125"
+                                height="30.799999237060547"></rect>
+                            <text fill="#F6AD55" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">
+                                team/ISICG-145-implementing-shadow-mapping</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(50, 240)">
+                <defs>
+                    <circle id="c31abde227b3a6331e5c4dc1b98472620f108478" cx="14" cy="14" r="14"
+                        fill="#F6AD55"
+                        style="fill: rgb(72, 187, 120); stroke: rgb(66, 153, 225); stroke-width: 0px;"></circle>
+                    <clipPath id="clip-c31abde227b3a6331e5c4dc1b98472620f108478">
+                        <use xlink:href="#c31abde227b3a6331e5c4dc1b98472620f108478"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#c31abde227b3a6331e5c4dc1b98472620f108478"
+                        clip-path="url(#clip-c31abde227b3a6331e5c4dc1b98472620f108478)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(-50, 0)">
+                    <g transform="translate(793.2000122070312, 14)">
+                        <text alignment-baseline="central" fill="#F6AD55">[Perla] infra</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#F6AD55" fill="white" rx="10" width="423.20001220703125"
+                                height="30.799999237060547"></rect>
+                            <text fill="#F6AD55" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">
+                                team/ISICG-145-implementing-shadow-mapping</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(50, 320)">
+                <defs>
+                    <circle id="74324258bdbf76c0d77378c2d96c5ef5793f896d" cx="14" cy="14" r="14"
+                        fill="#F6AD55"
+                        style="fill: rgb(72, 187, 120); stroke: rgb(66, 153, 225); stroke-width: 0px;"></circle>
+                    <clipPath id="clip-74324258bdbf76c0d77378c2d96c5ef5793f896d">
+                        <use xlink:href="#74324258bdbf76c0d77378c2d96c5ef5793f896d"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#74324258bdbf76c0d77378c2d96c5ef5793f896d"
+                        clip-path="url(#clip-74324258bdbf76c0d77378c2d96c5ef5793f896d)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(-50, 0)">
+                    <g transform="translate(793.2000122070312, 14)">
+                        <text alignment-baseline="central" fill="#F6AD55">[Perla] adding debug mode</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#F6AD55" fill="white" rx="10" width="423.20001220703125"
+                                height="30.799999237060547"></rect>
+                            <text fill="#F6AD55" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">
+                                team/ISICG-145-implementing-shadow-mapping</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(50, 400)">
+                <defs>
+                    <circle id="2e23ed4f543f8637971e7a4cf8a77841f2799878" cx="14" cy="14" r="14"
+                        fill="#F6AD55"
+                        style="fill: rgb(72, 187, 120); stroke: rgb(66, 153, 225); stroke-width: 0px;"></circle>
+                    <clipPath id="clip-2e23ed4f543f8637971e7a4cf8a77841f2799878">
+                        <use xlink:href="#2e23ed4f543f8637971e7a4cf8a77841f2799878"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#2e23ed4f543f8637971e7a4cf8a77841f2799878"
+                        clip-path="url(#clip-2e23ed4f543f8637971e7a4cf8a77841f2799878)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(-50, 0)">
+                    <g transform="translate(793.2000122070312, 14)">
+                        <text alignment-baseline="central" fill="#F6AD55">[Perla] done</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#F6AD55" fill="white" rx="10" width="423.20001220703125"
+                                height="30.799999237060547"></rect>
+                            <text fill="#F6AD55" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">
+                                team/ISICG-145-implementing-shadow-mapping</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(100, 480)">
+                <defs>
+                    <circle id="3024fda7c185052519d68f9cdfa31f50088a8c03" cx="14" cy="14" r="14"
+                        fill="#48BB78"
+                        style="fill: rgb(246, 173, 85); stroke: rgb(66, 153, 225); stroke-width: 0px;"></circle>
+                    <clipPath id="clip-3024fda7c185052519d68f9cdfa31f50088a8c03">
+                        <use xlink:href="#3024fda7c185052519d68f9cdfa31f50088a8c03"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#3024fda7c185052519d68f9cdfa31f50088a8c03"
+                        clip-path="url(#clip-3024fda7c185052519d68f9cdfa31f50088a8c03)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(-100, 0)">
+                    <g transform="translate(457.1999969482422, 14)">
+                        <text alignment-baseline="central" fill="#48BB78">Merge branch
+                            team/ISICG-145-implementing-shadow-mapping</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#48BB78" fill="white" rx="10" width="87.19999694824219"
+                                height="30.799999237060547"></rect>
+                            <text fill="#48BB78" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">develop</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(150, 560)">
+                <defs>
+                    <circle id="a04e3a083cb28d67d578ab4d109b4b28ce6f4872" cx="14" cy="14" r="14"
+                        fill="#ECC94B"
+                        style="fill: rgb(236, 201, 75); stroke: rgb(66, 153, 225); stroke-width: 0px;"></circle>
+                    <clipPath id="clip-a04e3a083cb28d67d578ab4d109b4b28ce6f4872">
+                        <use xlink:href="#a04e3a083cb28d67d578ab4d109b4b28ce6f4872"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#a04e3a083cb28d67d578ab4d109b4b28ce6f4872"
+                        clip-path="url(#clip-a04e3a083cb28d67d578ab4d109b4b28ce6f4872)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(-150, 0)">
+                    <g transform="translate(697.2000122070312, 14)">
+                        <text alignment-baseline="central" fill="#ECC94B">create new branch</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#ECC94B" fill="white" rx="10" width="327.20001220703125"
+                                height="30.799999237060547"></rect>
+                            <text fill="#ECC94B" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">
+                                team/ISICG-158-implementing-ssao</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(150, 640)">
+                <defs>
+                    <circle id="5bb2d2c479592a1aad34686b9c08fd61857c0163" cx="14" cy="14" r="14"
+                        fill="#ECC94B"
+                        style="fill: rgb(236, 201, 75); stroke: rgb(66, 153, 225); stroke-width: 0px;"></circle>
+                    <clipPath id="clip-5bb2d2c479592a1aad34686b9c08fd61857c0163">
+                        <use xlink:href="#5bb2d2c479592a1aad34686b9c08fd61857c0163"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#5bb2d2c479592a1aad34686b9c08fd61857c0163"
+                        clip-path="url(#clip-5bb2d2c479592a1aad34686b9c08fd61857c0163)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(-150, 0)">
+                    <g transform="translate(697.2000122070312, 14)">
+                        <text alignment-baseline="central" fill="#ECC94B">[Georges] progress</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#ECC94B" fill="white" rx="10" width="327.20001220703125"
+                                height="30.799999237060547"></rect>
+                            <text fill="#ECC94B" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">
+                                team/ISICG-158-implementing-ssao</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(200, 720)">
+                <defs>
+                    <circle id="df30f9ba1f618101ba9789f4183ad1b1d231af8b" cx="14" cy="14" r="14"
+                        fill="#0BC5EA"
+                        style="fill: rgb(11, 197, 234); stroke: rgb(66, 153, 225); stroke-width: 0px;"></circle>
+                    <clipPath id="clip-df30f9ba1f618101ba9789f4183ad1b1d231af8b">
+                        <use xlink:href="#df30f9ba1f618101ba9789f4183ad1b1d231af8b"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#df30f9ba1f618101ba9789f4183ad1b1d231af8b"
+                        clip-path="url(#clip-df30f9ba1f618101ba9789f4183ad1b1d231af8b)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(-200, 0)">
+                    <g transform="translate(620.3999938964844, 14)">
+                        <text alignment-baseline="central" fill="#0BC5EA">create new branch</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#0BC5EA" fill="white" rx="10" width="250.39999389648438"
+                                height="30.799999237060547"></rect>
+                            <text fill="#0BC5EA" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">
+                                team/ISICG-148-fixing-ui</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(200, 800)">
+                <defs>
+                    <circle id="477d75abad358ae9db6c5e9a28adfe5f49da6e8c" cx="14" cy="14" r="14"
+                        fill="#0BC5EA"
+                        style="fill: rgb(11, 197, 234); stroke: rgb(66, 153, 225); stroke-width: 0px;"></circle>
+                    <clipPath id="clip-477d75abad358ae9db6c5e9a28adfe5f49da6e8c">
+                        <use xlink:href="#477d75abad358ae9db6c5e9a28adfe5f49da6e8c"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#477d75abad358ae9db6c5e9a28adfe5f49da6e8c"
+                        clip-path="url(#clip-477d75abad358ae9db6c5e9a28adfe5f49da6e8c)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(-200, 0)">
+                    <g transform="translate(620.3999938964844, 14)">
+                        <text alignment-baseline="central" fill="#0BC5EA">[Joseph] done</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#0BC5EA" fill="white" rx="10" width="250.39999389648438"
+                                height="30.799999237060547"></rect>
+                            <text fill="#0BC5EA" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">
+                                team/ISICG-148-fixing-ui</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(150, 880)">
+                <defs>
+                    <circle id="497944ff7652864f9290257fb86a057a972dbbb3" cx="14" cy="14" r="14"
+                        fill="#ECC94B"
+                        style="fill: rgb(236, 201, 75); stroke: rgb(66, 153, 225); stroke-width: 0px;"></circle>
+                    <clipPath id="clip-497944ff7652864f9290257fb86a057a972dbbb3">
+                        <use xlink:href="#497944ff7652864f9290257fb86a057a972dbbb3"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#497944ff7652864f9290257fb86a057a972dbbb3"
+                        clip-path="url(#clip-497944ff7652864f9290257fb86a057a972dbbb3)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(-150, 0)">
+                    <g transform="translate(697.2000122070312, 14)">
+                        <text alignment-baseline="central" fill="#ECC94B">[George] done</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#ECC94B" fill="white" rx="10" width="327.20001220703125"
+                                height="30.799999237060547"></rect>
+                            <text fill="#ECC94B" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">
+                                team/ISICG-158-implementing-ssao</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(100, 960)">
+                <defs>
+                    <circle id="7eb515f4e6c5bc61299ceda53b17986a107083bf" cx="14" cy="14" r="14"
+                        fill="#48BB78"></circle>
+                    <clipPath id="clip-7eb515f4e6c5bc61299ceda53b17986a107083bf">
+                        <use xlink:href="#7eb515f4e6c5bc61299ceda53b17986a107083bf"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#7eb515f4e6c5bc61299ceda53b17986a107083bf"
+                        clip-path="url(#clip-7eb515f4e6c5bc61299ceda53b17986a107083bf)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(-100, 0)">
+                    <g transform="translate(457.1999969482422, 14)">
+                        <text alignment-baseline="central" fill="#48BB78">Merge branch
+                            team/ISICG-148-fixing-ui</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#48BB78" fill="white" rx="10" width="87.19999694824219"
+                                height="30.799999237060547"></rect>
+                            <text fill="#48BB78" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">develop</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(100, 1040)">
+                <defs>
+                    <circle id="6f950cfd1d961d7876c78aaf83d3f76febb26991" cx="14" cy="14" r="14"
+                        fill="#48BB78"
+                        style="fill: rgb(72, 187, 120); stroke: rgb(66, 153, 225); stroke-width: 0px;"></circle>
+                    <clipPath id="clip-6f950cfd1d961d7876c78aaf83d3f76febb26991">
+                        <use xlink:href="#6f950cfd1d961d7876c78aaf83d3f76febb26991"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#6f950cfd1d961d7876c78aaf83d3f76febb26991"
+                        clip-path="url(#clip-6f950cfd1d961d7876c78aaf83d3f76febb26991)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(-100, 0)">
+                    <g transform="translate(457.1999969482422, 14)">
+                        <text alignment-baseline="central" fill="#48BB78">Merge branch
+                            team/ISICG-158-implementing-ssao</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#48BB78" fill="white" rx="10" width="87.19999694824219"
+                                height="30.799999237060547"></rect>
+                            <text fill="#48BB78" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">develop</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(250, 1120)">
+                <defs>
+                    <circle id="bf3e6bad93851264fb06032d8170a7599ab33881" cx="14" cy="14" r="14"
+                        fill="#9F7AEA"
+                        style="fill: rgb(159, 122, 234); stroke: rgb(66, 153, 225); stroke-width: 0px;"></circle>
+                    <clipPath id="clip-bf3e6bad93851264fb06032d8170a7599ab33881">
+                        <use xlink:href="#bf3e6bad93851264fb06032d8170a7599ab33881"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#bf3e6bad93851264fb06032d8170a7599ab33881"
+                        clip-path="url(#clip-bf3e6bad93851264fb06032d8170a7599ab33881)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(-250, 0)">
+                    <g transform="translate(582, 14)">
+                        <text alignment-baseline="central" fill="#9F7AEA">create new branch</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#9F7AEA" fill="white" rx="10" width="212"
+                                height="30.799999237060547"></rect>
+                            <text fill="#9F7AEA" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">
+                                release/2026.001.000</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(300, 1200)">
+                <defs>
+                    <circle id="a6297633249487b7a6264c73780b5553f90d2d67" cx="14" cy="14" r="14"
+                        fill="#38B2AC"
+                        style="fill: rgb(56, 178, 172); stroke: rgb(66, 153, 225); stroke-width: 0px;"></circle>
+                    <clipPath id="clip-a6297633249487b7a6264c73780b5553f90d2d67">
+                        <use xlink:href="#a6297633249487b7a6264c73780b5553f90d2d67"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#a6297633249487b7a6264c73780b5553f90d2d67"
+                        clip-path="url(#clip-a6297633249487b7a6264c73780b5553f90d2d67)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(-300, 0)">
+                    <g transform="translate(687.6000061035156, 14)">
+                        <text alignment-baseline="central" fill="#38B2AC">create new branch</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#38B2AC" fill="white" rx="10" width="317.6000061035156"
+                                height="30.799999237060547"></rect>
+                            <text fill="#38B2AC" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">
+                                team/ISICG-159-lighting-bug-fix</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(300, 1280)">
+                <defs>
+                    <circle id="37f0f7a3852e89fdd38779d01891af33c86f98f1" cx="14" cy="14" r="14"
+                        fill="#38B2AC"
+                        style="fill: rgb(56, 178, 172); stroke: rgb(66, 153, 225); stroke-width: 0px;"></circle>
+                    <clipPath id="clip-37f0f7a3852e89fdd38779d01891af33c86f98f1">
+                        <use xlink:href="#37f0f7a3852e89fdd38779d01891af33c86f98f1"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#37f0f7a3852e89fdd38779d01891af33c86f98f1"
+                        clip-path="url(#clip-37f0f7a3852e89fdd38779d01891af33c86f98f1)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(-300, 0)">
+                    <g transform="translate(687.6000061035156, 14)">
+                        <text alignment-baseline="central" fill="#38B2AC">[Perla] done</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#38B2AC" fill="white" rx="10" width="317.6000061035156"
+                                height="30.799999237060547"></rect>
+                            <text fill="#38B2AC" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">
+                                team/ISICG-159-lighting-bug-fix</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(250, 1360)">
+                <defs>
+                    <circle id="3ad254905f14938f6d9bf3708c83b07dfabc355e" cx="14" cy="14" r="14"
+                        fill="#9F7AEA"
+                        style="fill: rgb(159, 122, 234); stroke: rgb(66, 153, 225); stroke-width: 0px;"></circle>
+                    <clipPath id="clip-3ad254905f14938f6d9bf3708c83b07dfabc355e">
+                        <use xlink:href="#3ad254905f14938f6d9bf3708c83b07dfabc355e"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#3ad254905f14938f6d9bf3708c83b07dfabc355e"
+                        clip-path="url(#clip-3ad254905f14938f6d9bf3708c83b07dfabc355e)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(-250, 0)">
+                    <g transform="translate(582, 14)">
+                        <text alignment-baseline="central" fill="#9F7AEA">Merge branch
+                            team/ISICG-159-lighting-bug-fix</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#9F7AEA" fill="white" rx="10" width="212"
+                                height="30.799999237060547"></rect>
+                            <text fill="#9F7AEA" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">
+                                release/2026.001.000</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(100, 1440)">
+                <defs>
+                    <circle id="a3042deaba928a0325df88fca81fb55fa2161ba7" cx="14" cy="14" r="14"
+                        fill="#48BB78"
+                        style="fill: rgb(72, 187, 120); stroke: rgb(66, 153, 225); stroke-width: 0px;"></circle>
+                    <clipPath id="clip-a3042deaba928a0325df88fca81fb55fa2161ba7">
+                        <use xlink:href="#a3042deaba928a0325df88fca81fb55fa2161ba7"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#a3042deaba928a0325df88fca81fb55fa2161ba7"
+                        clip-path="url(#clip-a3042deaba928a0325df88fca81fb55fa2161ba7)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(-100, 0)">
+                    <g transform="translate(457.1999969482422, 14)">
+                        <text alignment-baseline="central" fill="#48BB78">Merge branch
+                            release/2026.001.000</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#48BB78" fill="white" rx="10" width="87.19999694824219"
+                                height="30.799999237060547"></rect>
+                            <text fill="#48BB78" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">develop</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(0, 1520)">
+                <defs>
+                    <circle id="f901984bc0038a9b4c32f024acd8dee9ecc3f8b9" cx="14" cy="14" r="14"
+                        fill="#718096"></circle>
+                    <clipPath id="clip-f901984bc0038a9b4c32f024acd8dee9ecc3f8b9">
+                        <use xlink:href="#f901984bc0038a9b4c32f024acd8dee9ecc3f8b9"></use>
+                    </clipPath>
+                </defs>
+                <g>
+                    <use xlink:href="#f901984bc0038a9b4c32f024acd8dee9ecc3f8b9"
+                        clip-path="url(#clip-f901984bc0038a9b4c32f024acd8dee9ecc3f8b9)"
+                        stroke-width="0"></use>
+                </g>
+                <g transform="translate(0, 0)">
+                    <g transform="translate(437.5999984741211, 14)">
+                        <text alignment-baseline="central" fill="#718096">Merge branch develop</text>
+                    </g>
+                    <g transform="translate(350, 0)">
+                        <g>
+                            <rect stroke="#718096" fill="white" rx="10" width="77.5999984741211"
+                                height="30.799999237060547"></rect>
+                            <text fill="#718096" alignment-baseline="middle"
+                                dominant-baseline="middle" x="10" y="15.399999618530273">master</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

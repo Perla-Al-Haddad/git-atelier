@@ -64,8 +64,8 @@ const convertMarkdownToHTML = (markdownText: string) => {
 
         if (aIndex < 0) {
             tokens[idx].attrPush(["target", "_blank"]);
-        } else if (tokens[idx].attrs) {
-            tokens[idx].attrs[aIndex][1] = "_blank";
+        } else {
+            tokens[idx].attrs![aIndex][1] = "_blank";
         }
 
         tokens[idx].attrPush(["rel", "noopener noreferrer"]);
