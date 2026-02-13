@@ -17,7 +17,7 @@ a,
 
 @media (hover: hover) {
   a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
+    background-color: hsla(160, 100, 37%, 0.2);
   }
 }
 
@@ -205,3 +205,28 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+table {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+table th,
+table td {
+  padding: 0.8rem 1rem;
+  border: #333 2px solid;
+}
+
+ ol {
+   list-style: none;
+   counter-reset: item;
+ }
+ ol li {
+   counter-increment: item;
+ }
+ ol li:before {
+   content: counter(item) ". ";
+   color: #777;
+   width: 1.5em;
+   display: inline-block;
+ }

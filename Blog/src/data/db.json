@@ -38,24 +38,16 @@
         },
         {
             "index": "008",
-            "title": "Rebase vs Merge"
-        },
-        {
-            "index": "009",
-            "title": "Push --force-with-lease"
-        },
-        {
-            "index": "010",
             "title": "Organisation du cycle de développement avec Git Flow"
         },
         {
-            "index": "011",
+            "index": "009",
             "title": "Forks"
         }
     ],
     "CI/CD": [
         {
-            "index": "012",
+            "index": "010",
             "title": "GitHub Pages et CI/CD"
         }
     ]
