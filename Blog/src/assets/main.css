@@ -215,6 +215,7 @@ table th,
 table td {
   padding: 0.8rem 1rem;
   border: #333 2px solid;
+  min-width: 8rem;
 }
 
  ol {
