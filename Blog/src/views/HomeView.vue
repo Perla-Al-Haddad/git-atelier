@@ -19,7 +19,14 @@ interface IPost {
 }
 
 const generateHeadingID = (s: string) => {
-    return encodeURIComponent(String(s).trim().toLowerCase().replace(/\s+/g, '-').replace(/`/g, "").replace(/\./g, ''));
+    return String(s)
+    .trim()
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/\s+/g, "-")
+    .replace(/[^a-z0-9\-\_\:\.]/g, "")
+    .replace(/^[^a-z]+/, "");
 }
 
 const fetchPostList = () => {
