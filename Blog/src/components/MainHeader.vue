@@ -2,7 +2,7 @@
     <header>
         <nav class="navbar navbar-expand-lg bg-dark py-1">
             <div class="container">
-                <a class="navbar-brand text-white" href="/" style="display:flex; align-items: center">
+                <a class="navbar-brand text-white" href="/git-atelier/" style="display:flex; align-items: center">
                     <svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <title>CFEDCFDF-C922-4C28-B98B-A7526A724865</title>
                         <desc>Created with sketchtool.</desc>
